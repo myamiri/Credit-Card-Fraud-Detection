@@ -55,12 +55,12 @@ After implementing this technique, we have a sub-sample of our dataframe with a 
 1) Never test on the oversampled or undersampled dataset.
 2) If we want to implement cross validation, remember to oversample or undersample your training data during cross-validation, not before!
 
- Result of undersampling before cross-validation :
+   Result of undersampling before cross-validation :
 
 ![ana10](https://user-images.githubusercontent.com/33470542/81507545-39dd2780-92cc-11ea-9c6f-bbdb9c1985f0.png)
 
 
- Result of undersampling during cross-validation :
+   Result of undersampling during cross-validation :
 
 ![ana11](https://user-images.githubusercontent.com/33470542/81507947-b4a74200-92ce-11ea-9124-ebba94fff0a3.png)
 
