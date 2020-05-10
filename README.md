@@ -20,7 +20,9 @@ Why does class imbalanced affect model performance?
 
 Training a model on a balanced dataset optimizes performance on validation data.
 However, the goal is to optimize performance on the imbalanced production dataset. You ultimately need to find a balance that works best in production.
-One solution to this problem is: Use all fraudulent transactions, but subsample non-fraudulent transactions as needed to hit our target rate.
+
+One solution to this problem is: 
+Use all fraudulent transactions, but subsample non-fraudulent transactions as needed to hit our target rate.
 
 
 # Data
