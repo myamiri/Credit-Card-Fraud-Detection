@@ -57,12 +57,12 @@ After implementing this technique, we have a sub-sample of our dataframe with a 
 
    Result of undersampling before cross-validation :
 
-![ana10](https://user-images.githubusercontent.com/33470542/81507545-39dd2780-92cc-11ea-9c6f-bbdb9c1985f0.png)
+   ![ana10](https://user-images.githubusercontent.com/33470542/81507545-39dd2780-92cc-11ea-9c6f-bbdb9c1985f0.png)
 
 
    Result of undersampling during cross-validation :
 
-![ana11](https://user-images.githubusercontent.com/33470542/81507947-b4a74200-92ce-11ea-9124-ebba94fff0a3.png)
+   ![ana11](https://user-images.githubusercontent.com/33470542/81507947-b4a74200-92ce-11ea-9124-ebba94fff0a3.png)
 
 
 
