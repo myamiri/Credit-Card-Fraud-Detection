@@ -57,7 +57,7 @@ Result of undersampling before cross-validation :
 
 Result of undersampling during cross-validation :
 
-![ana11](https://user-images.githubusercontent.com/33470542/81507567-4ceff780-92cc-11ea-92c2-815263e06d09.png)
+![ana11](https://user-images.githubusercontent.com/33470542/81507947-b4a74200-92ce-11ea-9124-ebba94fff0a3.png)
 
 
 
