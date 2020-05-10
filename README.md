@@ -35,6 +35,7 @@ It contains only numerical input variables which are the result of a PCA transfo
 I will implement "Random Under Sampling" which basically consists of removing data in order to have a more balanced dataset and thus avoiding our models to overfitting.
 
 Steps:
+
 The first thing we have to do is determine how imbalanced is our class (use "value_counts()" on the class column to determine the amount for each label)
 
 ![ana12](https://user-images.githubusercontent.com/33470542/81507828-e966c980-92cd-11ea-8574-b43549833c92.png)
